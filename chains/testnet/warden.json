@@ -3,13 +3,13 @@
     "api": [
         {
             "address": "https://warden-testnet-api.apollo-sync.com", 
-            "provider": "Validator247"
+            "provider": "apollosync"
         }
     ], 
     "rpc": [
         {
             "address": "https://warden-testnet-rpc.apollo-sync.com", 
-            "provider": "Validator247"
+            "provider": "apollosync"
         }
     ],
     "sdk_version": "0.47.3",
