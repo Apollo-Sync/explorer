@@ -2,13 +2,13 @@
     "chain_name": "0G LAB-testnet",
     "api": [
         {
-            "address": "https://0g-testnet-api.apollo-sync.com", 
+            "address": "https://0g-api.originstake.com", 
             "provider": "Apollosync"
         }
     ], 
     "rpc": [
         {
-            "address": "https://0g-testnet-rpc.apollo-sync.com", 
+            "address": "https://0g-rpc.originstake.com", 
             "provider": "Apollosync"
         }
     ],
