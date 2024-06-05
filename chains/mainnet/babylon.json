@@ -1,0 +1,24 @@
+{
+  "chain_name": "Babylon",
+  "rpc": [
+    {"provider": "Anatolian Team", "address": "https://rpc-t-babylon.anatolianteam.com"}
+],
+  "api": [
+      {"provider": "Anatolian Team", "address": "https://api-t-babylon.anatolianteam.com"}
+  ],
+  "snapshot_provider": "",
+  "sdk_version": "0.38.5",
+  "coin_type": "118",
+  "min_tx_fee": "5000",
+  "addr_prefix": "bbn",
+  "logo": "/logos/babylon.svg",
+  "assets": [
+    {
+      "base": "ubbn",
+      "symbol": "BBN",
+      "exponent": "6",
+      "coingecko_id": "babylon",
+      "logo": "/logos/babylon.svg"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "chain_name": "Mantra",
+  "api": [{"provider": "Anatolian Team", "address": "https://api-t-mantra.anatolianteam.com"}],
+  "rpc": [{"provider": "Anatolian Team", "address": "https://rpc-t-mantra.anatolianteam.com"}],
+  "snapshot_provider": "",
+  "sdk_version": "0.47.4",
+  "coin_type": "118",
+  "min_tx_fee": "200",
+  "addr_prefix": "mantra",
+  "logo": "/logos/mantrachain.svg",
+  "assets": [{
+      "base": "uom",
+      "symbol": "OM",
+      "exponent": "6",
+      "coingecko_id": "",
+      "logo": "/logos/mantrachain.svg"
+    }]
+}
