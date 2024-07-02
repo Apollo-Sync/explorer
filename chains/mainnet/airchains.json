@@ -3,13 +3,13 @@
     "api": [
         {
             "address": "https://junction-testnet-api.synergynodes.com", 
-            "provider": "Validator247"
+            "provider": "Apollo-sync"
         }
     ], 
     "rpc": [
         {
             "address": "https://junction-testnet-rpc.synergynodes.com", 
-            "provider": "Validator247"
+            "provider": "Apollo-sync"
         }
     ],
     "sdk_version": "0.47.3",
