@@ -2,13 +2,13 @@
     "chain_name": "airchains-testnet",
     "api": [
         {
-            "address": "https://airchains-testnet-api.validator247.com", 
+            "address": "https://junction-testnet-api.synergynodes.com", 
             "provider": "Validator247"
         }
     ], 
     "rpc": [
         {
-            "address": "https://airchains-testnet-rpc.validator247.com", 
+            "address": "https://junction-testnet-rpc.synergynodes.com", 
             "provider": "Validator247"
         }
     ],
