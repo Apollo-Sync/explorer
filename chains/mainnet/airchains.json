@@ -1,16 +1,17 @@
 {
-    "chain_name": "empeiria",
-    "api": ["https://airchains-testnet-api.apollo-sync.com"],
-    "rpc": ["https://airchains-testnet-rpc.apollo-sync.com"],
-	"sdk_version": "v0.47.9",
-    "coin_type": 118,
-    "min_tx_fee": 200,
-    "addr_prefix": "source",
-    "logo": "/logos/empeiria.jpg",
-    "assets": [{
-        "base": "uempe",
-        "symbol": "EMPE",
-        "exponent": 6,
-        "logo": "/logos/empeiria.jpg"
-    }]
+  "chain_name": "airchains",
+  "api": ["https://airchains-testnet-api.apollo-sync.com"],
+  "rpc": ["https://airchains-testnet-rpc.apollo-sync.com"],
+  "sdk_version": "0.50.3",
+  "addr_prefix": "air",
+  "min_tx_fee": "200",
+  "logo": "/logos/airchains.jpg",
+  "assets": [
+    {
+      "symbol": "AMF",
+      "base": "amf",
+      "exponent": 6,
+      "logo": "/logos/airchains.jpg"
+    }
+  ]
 }
