@@ -1,7 +1,7 @@
 {
   "chain_name": "airchains",
-  "api": ["https://airchains-testnet-api.apollo-sync.com"],
-  "rpc": ["https://airchains-testnet-rpc.apollo-sync.com"],
+  "api": ["https://airchains-var-api.apollo-sync.com/"],
+  "rpc": ["https://airchains-var-rpc.apollo-sync.com/"],
   "sdk_version": "0.50.3",
   "addr_prefix": "air",
   "min_tx_fee": "200",
